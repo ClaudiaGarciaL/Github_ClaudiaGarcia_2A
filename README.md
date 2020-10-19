@@ -7,3 +7,4 @@ Primer repositorio
 
 Cambios desde el local y desde el remoto.
 
+Cambio que quiero gestionar desde comandos.
