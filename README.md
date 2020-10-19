@@ -4,4 +4,6 @@ Primer repositorio
 * dos
 
 
-Cambios desde el remoto, 2.
+Cambios desde el local.
+
+
